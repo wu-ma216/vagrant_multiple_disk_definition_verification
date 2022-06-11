@@ -1,0 +1,1 @@
+# vagrant_multiple_disk_definition_verification
